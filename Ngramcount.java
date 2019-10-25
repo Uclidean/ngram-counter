@@ -1,8 +1,3 @@
-/**
- * A Class for counting ngrams
- * Kasim Terzic, 10 Feb 2017
- */
-
 class NgramCount implements Comparable<NgramCount> {
 
    /**
