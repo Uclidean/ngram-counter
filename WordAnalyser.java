@@ -1,6 +1,3 @@
-/**
- * Created by jh306 on 21/02/17.
- */
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
